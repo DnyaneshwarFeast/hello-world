@@ -12,7 +12,7 @@ namespace sol_HelloWorld
         {
             System.Console.WriteLine("Hello World");
             System.Console.WriteLine("Hello from github");
-            System.Console.WriteLine("Hello from thanks");
+            System.Console.WriteLine("Hello from thanks.");
         }
     }
 }
